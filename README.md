@@ -37,4 +37,4 @@ We currently have no OSX devices to test on, though we know this is possible and
 
 # Links
 - [Releases page](https://github.com/Bluppie05/Youtube-plusplus/releases)
-- [Website](https://Bluppie05.github.io/youtube-plusplus)
+- [Website](https://bluppie05.github.io/Youtube-plusplus/)

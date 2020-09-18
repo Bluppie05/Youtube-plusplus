@@ -1,38 +1,40 @@
-## Welcome to GitHub Pages
+# Youtube++
+The new privacy Youtube client
 
-You can use the [editor on GitHub](https://github.com/Bluppie05/Youtube-plusplus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Supported platforms
+- Android(apk)
+- Windows
+- Linux
+- OSX(coming soon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Installation
+Installing Youtube++ is very easy, follow the steps for your operating system below
 
-### Markdown
+## Android
+1. Check out the [releases page](https://github.com/Bluppie05/Youtube-plusplus/releases) and download the latest APK
+2. Install the APK, you may need to allow "installing unknown applications"
+3. Done!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Windows
+1. Check out the [releases page](https://github.com/Bluppie05/Youtube-plusplus/releases) and download the latest EXE
+2. Run the application by double tapping it, a security window may pop up because this is likely a development build not signed by microsoft
+3. Done!
 
-```markdown
-Syntax highlighted code block
+## Linux
+Snap builds are likely to be coming soon
+1. Check out the [releases page](https://github.com/Bluppie05/Youtube-plusplus/releases) and download the latest TAR
+2. Extract the TAR and run `make`
+3. To install it, run `make install`
+4. Done!
 
-# Header 1
-## Header 2
-### Header 3
+## OSX
+We currently have no OSX devices to test on, though we know this is possible and this will be coming soon
 
-- Bulleted
-- List
+# Changelog
++ Added search menu
++ Added video preview
++ Optimized JavaScript
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bluppie05/Youtube-plusplus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+# Links
+- [Releases page](https://github.com/Bluppie05/Youtube-plusplus/releases)
+- [Website](https://bluppie05.github.io/Youtube-plusplus/)
