@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
-url: youtubeplusplus.github.io
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
